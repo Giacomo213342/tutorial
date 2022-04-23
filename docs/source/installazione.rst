@@ -3,6 +3,18 @@ Installazione
 
 ..  Forge:
 
+Installazione delle Mod
+----------------
+
+Per scaricare le Mod che servono ad entrare nel nostro Server Minecraft, recati su https://thegruppomultigaming.com/ e clicca su "File Zippato"
+
+.. image:: https://thegruppomultigaming.com/img/7.png
+  :width: 600
+  :alt: Scarica le Mod
+  
+Ora premi contemporaneamente i tasti Windows + R e scrivi %appdata%, clicca su invio, poi entra nella cartella .minecraft, nella cartella mods (se non esiste creala),e incolla il file che hai scaricato precedentemente.
+Estrai il file che hai copiato nella cartella, e il gioco è fatto. Ora vai allo step successivo!
+
 Installazione di Forge su Launcher originale
 ------------
 
@@ -36,7 +48,7 @@ Nella finestra per l'installazione di Forge, clicca su OK
   :width: 400
   :alt: Installa
   
-Se usi il Launcher di Minecraft originale (premium) troverai Forge già installato. Scorri in basso tra le versioni e cercane una chiamata Forge
+Troverai Forge già installato. Scorri in basso tra le versioni e cercane una chiamata Forge
 
 .. image:: https://thegruppomultigaming.com/img/5.png
   :width: 600
@@ -50,15 +62,3 @@ Se usi TLauncher trovarai Forge direttamente tra le versioni
 .. image:: https://thegruppomultigaming.com/img/6.png
   :width: 600
   :alt: TLauncher
-
-Installazione delle Mod
-----------------
-
-Per scaricare le Mod che servono ad entrare nel nostro Server Minecraft, recati su https://thegruppomultigaming.com/ e clicca su "File Zippato"
-
-.. image:: https://thegruppomultigaming.com/img/7.png
-  :width: 600
-  :alt: Scarica le Mod
-  
-Ora premi contemporaneamente i tasti Windows + R e scrivi %appdata%, clicca su invio, poi entra nella cartella .minecraft, nella cartella mods (se non esiste creala),e incolla il file che hai scaricato precedentemente.
-Estrai il file che hai copiato nella cartella, e il gioco è fatto. Ora puoi entrare nel nostro server Minecraft!
