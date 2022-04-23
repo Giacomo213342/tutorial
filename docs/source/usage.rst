@@ -33,7 +33,7 @@ Ti si scaricherà un file sul computer. Aprilo.
 Nella finestra per l'installazione di Forge, clicca su Install
 
 .. image:: https://thegruppomultigaming.com/img/4.png
-  :width: 600
+  :width: 400
   :alt: Installa
   
 Se usi il Launcher di Minecraft originale (premium) troverai Forge già installato. Scorri in basso tra le versioni e clicca qella chiamata Forge
