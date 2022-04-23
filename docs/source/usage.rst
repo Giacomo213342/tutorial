@@ -36,7 +36,7 @@ Nella finestra per l'installazione di Forge, clicca su OK
   :width: 400
   :alt: Installa
   
-Se usi il Launcher di Minecraft originale (premium) troverai Forge già installato. Scorri in basso tra le versioni e clicca qella chiamata Forge
+Se usi il Launcher di Minecraft originale (premium) troverai Forge già installato. Scorri in basso tra le versioni e cercane una chiamata Forge
 
 .. image:: https://thegruppomultigaming.com/img/5.png
   :width: 600
