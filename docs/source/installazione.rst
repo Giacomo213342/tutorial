@@ -45,7 +45,7 @@ Se usi il Launcher di Minecraft originale (premium) troverai Forge già installa
 Installazione di Forge su TLauncher (SP)
 ------------
 
-Se usi TLauncher trovarai Forge direttamente tra le versioni.
+Se usi TLauncher trovarai Forge direttamente tra le versioni
 
 .. image:: https://thegruppomultigaming.com/img/6.png
   :width: 600
@@ -54,20 +54,11 @@ Se usi TLauncher trovarai Forge direttamente tra le versioni.
 Installazione delle Mod
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+Per scaricare le Mod che servono ad entrare nel nostro Server Minecraft, recati su https://thegruppomultigaming.com/ e clicca su "File Zippato"
 
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
+.. image:: https://thegruppomultigaming.com/img/7.png
+  :width: 600
+  :alt: Scarica le Mod
+  
+Ora premi contemporaneamente i tasti Windows + R e scrivi %appdata%, clicca su invio, poi entra nella cartella .minecraft, nella cartella mods (se non esiste creala),e incolla il file che hai scaricato precedentemente.
+Estrai il file che hai copiato nella cartella, e il gioco è fatto. Ora puoi entrare nel nostro server Minecraft!
