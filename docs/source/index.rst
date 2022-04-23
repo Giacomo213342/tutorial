@@ -7,10 +7,3 @@ Clicca su "Installazione" a sinistra per iniziare.
 .. note::
 
    I docs sono ancora in creazione. Se qualcosa non va, avvertici su Discord!
-
-Contenuti
---------
-
-.. toctree::
-
-   installazione
