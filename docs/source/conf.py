@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Server Minecraft'
+copyright = '2022, TheGruppoMultiGaming'
+author = 'Giacomo Rossetti'
 
 release = '0.1'
 version = '0.1.0'
