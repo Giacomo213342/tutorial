@@ -1,9 +1,9 @@
-Usage
+Installazione
 =====
 
-.. _installation:
+..  Forge:
 
-Installation
+Installazione di Forge
 ------------
 
 Per entrare nel nostro server Minecraft, hai bisogno di MinecraftForge.
@@ -18,7 +18,7 @@ Segui le immagini se non sai come si installa Forge:
 ![Launcher normale](https://thegruppomultigaming.com/img/5.png)
 ![TLauncher](https://thegruppomultigaming.com/img/6.png)
 
-Creating recipes
+Installazione delle Mod
 ----------------
 
 To retrieve a list of random ingredients,
