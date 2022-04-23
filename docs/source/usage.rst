@@ -27,7 +27,7 @@ Tutti le cose che ti appariranno sullo schermo sono annunci. Aspetta 5 secondi e
 Ti si scaricherà un file sul computer. Aprilo.
 
 .. image:: https://thegruppomultigaming.com/img/3.png
-  :width: 600
+  :width: 250
   :alt: Apri il file
 
 Nella finestra per l'installazione di Forge, clicca su Install
@@ -46,6 +46,7 @@ Installazione di Forge su TLauncher (SP)
 ------------
 
 Se usi TLauncher trovarai Forge direttamente tra le versioni.
+
 .. image:: https://thegruppomultigaming.com/img/6.png
   :width: 600
   :alt: TLauncher
