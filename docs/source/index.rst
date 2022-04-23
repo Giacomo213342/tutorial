@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Benvenuto nei docs per installare le mod!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Questa guida serve ad installare le Mod di Minecraft per poter accedere nel server di The Gruppo MultiGaming.
+Clicca su "Installazione" a sinistra per iniziare.
 
 .. note::
 
-   This project is under active development.
+   I docs sono ancora in creazione. Se qualcosa non va, avvertici su Discord!
 
-Contents
+Contenuti
 --------
 
 .. toctree::
 
-   usage
-   api
+   installazione
