@@ -6,7 +6,7 @@ Installazione
 Installazione delle Mod
 ----------------
 
-Per scaricare le Mod che servono ad entrare nel nostro Server Minecraft, recati su https://thegruppomultigaming.com/ e clicca su "File Zippato"
+Per scaricare le Mod che servono ad entrare nel nostro Server Minecraft, recati su https://thegruppomultigaming.com/mods e clicca su "File Zippato"
 
 .. image:: https://thegruppomultigaming.com/img/7.png
   :width: 600
