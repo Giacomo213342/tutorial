@@ -30,7 +30,7 @@ Ti si scaricherà un file sul computer. Aprilo.
   :width: 250
   :alt: Apri il file
 
-Nella finestra per l'installazione di Forge, clicca su Install
+Nella finestra per l'installazione di Forge, clicca su OK
 
 .. image:: https://thegruppomultigaming.com/img/4.png
   :width: 400
